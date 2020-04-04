@@ -1,5 +1,5 @@
 # mysite
-Hello!, this is my repository for my personal website. I built it using Hugo as the markdown/template generator and am hosting it via Netlify. 
+Hello! This is my repository for my personal website. I built it using Hugo as the markdown/template generator and am hosting it via Netlify. 
 
 Heres the tech:
 Hugo: https://gohugo.io/
