@@ -23,12 +23,12 @@ disqusShortname = "yourdiscussshortname"
     info = "Junior Data Scientist & Data Engineer"
     avatarurl = "images/avatar.jpg"
     #gravatar = "ivkovs1@montclair.edu"
-    footercontent = "Man is a rope"
+    footercontent = "All models are wrong, but some are useful."
 
     dateformat = "January 2, 2006"
 
     hideFooter = false
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
     since = 2019
 
@@ -83,7 +83,7 @@ disqusShortname = "yourdiscussshortname"
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/stephen-ivkov/"
 [[params.social]]
     name = "Medium"
     icon = "fab fa-medium"
@@ -125,7 +125,7 @@ disqusShortname = "yourdiscussshortname"
             url = "contact/"
 
 
-    [languages.pt-br]
+  # [languages.pt-br]
         languagename = "Português"
         title = "João Ninguém"
 
@@ -136,7 +136,7 @@ disqusShortname = "yourdiscussshortname"
             keywords = "blog,desenvolvedor,pessoal"
             footercontent = "Coloque algum texto aqui."
 
-        [languages.pt-br.menu]
+         [languages.pt-br.menu]
 
             [[languages.pt-br.menu.main]]
             name = "Sobre"

@@ -3,4 +3,4 @@ title = "Projects"
 slug = "projects"
 +++
 
-To be added!
+Check out my github!
