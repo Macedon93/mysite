@@ -1,10 +1,12 @@
 +++
-title = "Who I Am"
+title = "Who am I?"
 slug = "about"
 +++
 
-My name is Steve, im a 27 year old jr Data Scientist pursuing my masters in Data Science.  
+I'm a 27 year old jr Data Scientist & Data engineer pursuing my masters in Data Science.  
 
-My professional interests are primarily in statistical learning theory, machine learning 
-algorithms and their optimization, data mining and general data analysis. Im currently trying to get my foot in the door 
-for my first post bac job. I will be entering the Data Science masters program at Montclair State this upcoming fall. 
+My interests are primarily in statistical learning theory, probabalistic generative models, machine learning 
+algorithms and their optimization, data mining and database design. Im currently trying to get my foot in the door 
+for my first post bac job.
+
+I will be entering the Data Science MSc program at Montclair State University in September 2020. 
