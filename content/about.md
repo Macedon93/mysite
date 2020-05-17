@@ -3,10 +3,6 @@ title = "Who am I?"
 slug = "about"
 +++
 
-<a href="{{ .Page.Site.BaseUrl }}/{{ .Get 0 }}"/>
-    {{ .Inner }}
-</a>
-
 I'm a 27 year old jr Data Scientist & jr Data Engineer pursuing my 
 masters in Data Science and Statistics.
 
