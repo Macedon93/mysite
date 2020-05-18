@@ -75,11 +75,6 @@ disqusShortname = "yourdiscussshortname"
     weight = 2
     url = "https://gitlab.com/johndoe/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
-[[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
