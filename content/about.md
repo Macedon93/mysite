@@ -4,12 +4,11 @@ slug = "about"
 +++
 
 I'm a 27 year old jr Data Scientist & jr Data Engineer pursuing my 
-masters in Data Science and Statistics.
+masters in Data Science and Statistics. I currently work at TheOrthopedicReview as a Junior Data Engineer. 
 
 My interests are primarily in statistical learning theory, 
 probabilistic generative models, machine learning 
-algorithms/optimization, data mining and database design. I'm 
-currently trying to get my foot in the door for my first post bac job.
+algorithms/optimization, data mining and database design.
 
 I'm proficient in Python, R, and SQL. I'm most comfortable using R for 
 statistical analyses and Python for training ML models. I'm currently
