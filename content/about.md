@@ -3,8 +3,8 @@ title = "Who am I?"
 slug = "about"
 +++
 
-I'm a 27 year old jr Data Scientist & jr Data Engineer pursuing my 
-masters in Data Science and Statistics. I currently work at TheOrthopedicReview as a Junior Data Engineer. 
+I'm a 27 year old Jr Data Engineer at The Orthopedic Review. Im currently pursuing my 
+masters in Data Science and Statistics at MSU. 
 
 My interests are primarily in statistical learning theory, 
 probabilistic generative models, machine learning 
